@@ -81,8 +81,13 @@ The system has been tested using **Black Box Testing** with 11 test scenarios.
 ## 📂 Project Structure
 
 apitesting-web/
+
 │
+
 ├── Backend/ # NestJS API server
+
 ├── Frontend/ # Next.js web app
+
 ├── .gitignore
+
 └── README.md
